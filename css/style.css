@@ -72,8 +72,10 @@ footer{
   width: 25px;
   -webkit-animation-name: logo_wiggle;
   -webkit-animation-duration: 15s;
+  -webkit-animation-fill-mode: forwards;
   animation-name: logo_wiggle;
   animation-duration: 15s;
+  animation-fill-mode: forwards;
  
 }
 
