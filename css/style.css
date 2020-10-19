@@ -82,16 +82,22 @@ footer{
 /* Cards! */
 .pricing{
     min-height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
     /*Your code here.*/
     /*Don't forget to vertically and horizontally alight the card*/
   
 }
 
 .card {
+  display: flex;
   margin: 12px;
   background: #fff;
   border-radius: 7px;
   padding: 0 0 50px 0;
+  flex-basis: 400px;
   /*Your code here.*/
   /*Take a look at flex-basis*/
 
