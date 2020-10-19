@@ -83,7 +83,6 @@ footer{
 .pricing{
     min-height: 500px;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
     
@@ -99,6 +98,7 @@ footer{
   border-radius: 7px;
   padding: 0 0 50px 0;
   flex-basis: 400px;
+  flex-direction: column;
   /*Your code here.*/
   /*Take a look at flex-basis*/
 
