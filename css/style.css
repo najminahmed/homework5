@@ -205,12 +205,14 @@ header{
   header{
     /*Your code here again.*/ 
     display: flex;
+    justify-content: space-between;
     
     
   }
 
   .nav_links{
     display: flex;
+    justify-content: space-between;
     /*Your code here again.*/  
   }
 
