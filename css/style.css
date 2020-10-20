@@ -191,6 +191,8 @@ header{
 
   /* Cards! */
   .card {
+    display: flex;
+    flex-basis: 225px;
     /*Your  code here again.*/
   }
 
@@ -201,10 +203,14 @@ header{
 
   /* Navbar */
   header{
-    /*Your code here again.*/  
+    /*Your code here again.*/ 
+    display: flex;
+    
+    
   }
 
   .nav_links{
+    display: flex;
     /*Your code here again.*/  
   }
 
