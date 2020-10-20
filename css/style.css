@@ -147,6 +147,9 @@ footer{
 /* Gallery! */
 .gallery{
   min-height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   /*Your code here again.*/
 }
 
