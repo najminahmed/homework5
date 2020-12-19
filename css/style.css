@@ -56,14 +56,14 @@ footer{
 @-webkit-keyframes logo_wiggle{
   /*Your code here.*/
   from {width: 25px;}
-  to {width: 420px;}
+  to {width: 200px;}
 
 }
 
 @keyframes logo_wiggle{
   /*Your code here.*/
   from {width: 25px;}
-  to {width: 420px;}
+  to {width: 200px;}
 
 } 
 
